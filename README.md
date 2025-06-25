@@ -1,6 +1,8 @@
 # Releases
 ##  0.1.0-SNAPSHOT 📄
 
+8d03d9b Fuller automation
+
 15a9755 Create release infrastructure and update home page
 
 87a3b71 Finish home page
